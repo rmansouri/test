@@ -1,0 +1,21 @@
+{
+    "name": "rezamansouri/yii2-pay",
+    "description": "payment ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "reza mansouri",
+            "email": "info@rezamansouri.id.ir"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "rezamansouri\\pay\\": ""
+        }
+    }
+}
